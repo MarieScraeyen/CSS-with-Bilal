@@ -22,3 +22,13 @@ footer{
     height: 120px;
     border: 1px solid blue;
 }
+
+#about{
+    height: 640px;
+    border: 1px solid gold;
+}
+
+#our-creations{
+    height: 930px;
+    border: 1px solid purple;
+}
